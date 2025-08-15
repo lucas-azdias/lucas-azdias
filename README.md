@@ -26,12 +26,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
----
+<!---
 
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=radical" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&layout=compact&theme=radical" />
-</div>
+</div-->
 
 ---
 
