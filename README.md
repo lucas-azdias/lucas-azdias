@@ -19,8 +19,7 @@
 
 <!-- Backend -->
 <div>
-    <span style="margin-left: 15px; vertical-align: middle; font-weight: bold;">Backend</span>
-    <br />
+    <span style="width: 100px; vertical-align: middle; font-weight: bold;">Backend</span>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
     <br />
