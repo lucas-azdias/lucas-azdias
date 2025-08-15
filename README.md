@@ -1,6 +1,6 @@
 # LUCAS DIAS
 
-💻 **Computer Science Undergraduate @ PUC-PR**  
+💻 **Computer Science Undergraduate @ Pontifícia Universidade Católica do Paraná (PUC-PR)**  
 
 ---
 
