@@ -4,7 +4,7 @@
 
 ## 💻 Computer Science Undergraduate
 
-**@ Pontifícia Universidade Católica do Paraná (PUC-PR)**
+**@ Pontifícia Universidade Católica do Paraná (PUCPR)**
 
 <picture>
     <source
