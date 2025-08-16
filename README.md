@@ -67,17 +67,17 @@
 &nbsp;&nbsp;
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&theme=dark&hide=jupyter"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook&theme=dark"
             media="(prefers-color-scheme: dark)"
             height="150px"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             height="150px"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook"
             height="150px"
         />
     </picture>
