@@ -2,6 +2,8 @@
 
 # LUCAS DIAS
 
+<!-- ## 🧑‍🎓 Academics -->
+
 **Computer Science Undergraduate**
 
 **@ Pontifícia Universidade Católica do Paraná (PUCPR)**
@@ -66,6 +68,8 @@
 ![Podman](https://img.shields.io/badge/-Podman-7D1F26?style=flat-square&logo=podman&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 📊 𝗦𝘁𝗮𝘁𝘀
 
