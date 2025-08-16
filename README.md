@@ -2,7 +2,9 @@
 
 # LUCAS DIAS
 
-## 💻 Computer Science Undergraduate
+## 🧑‍🎓 Academics
+
+**Computer Science Undergraduate**
 
 **@ Pontifícia Universidade Católica do Paraná (PUCPR)**
 
@@ -25,7 +27,7 @@
 
 ---
 
-## My Tech Stack
+## 💻 My Tech Stack
 
 <!-- Frontend -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -67,7 +69,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 📊 𝗦𝘁𝗮𝘁𝘀
 
 <div>
     <picture>
