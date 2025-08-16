@@ -49,19 +49,7 @@
 
 <!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dracula) -->
 <!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&theme=dracula) -->
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-<table>
+<table style="border: none;">
     <tr>
         <td>
             <picture>
