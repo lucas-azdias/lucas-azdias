@@ -50,10 +50,11 @@
 <!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dracula) -->
 <!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&theme=dracula) -->
 <div>
-    <picture height="150px">
+    <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
+            height="150px"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true"
