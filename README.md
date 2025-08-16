@@ -67,7 +67,7 @@
 &nbsp;&nbsp;
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&theme=dark&hide=jupyter"
             media="(prefers-color-scheme: dark)"
             height="150px"
         />
