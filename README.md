@@ -49,7 +49,7 @@
 
 <!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dracula) -->
 <!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&theme=dracula) -->
-<picture height="150px">
+<picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
@@ -60,6 +60,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true" />
 </picture>
+<br />
 <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&theme=dark"
