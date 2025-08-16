@@ -2,8 +2,6 @@
 
 # LUCAS DIAS
 
-## 🧑‍🎓 Academics
-
 **Computer Science Undergraduate**
 
 **@ Pontifícia Universidade Católica do Paraná (PUCPR)**
