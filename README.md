@@ -9,8 +9,8 @@
 <div style="display: flex; flex-direction: column;">
     <!-- Frontend / Web -->
     <div style="width: 80%; display: flex; flex-direction: row; justify-content: space-between;">
-        <span style="width: 200px; vertical-align: middle; font-weight: bold;">Frontend / Web</span>
-        <div style="width: 100%; display: flex; flex-direction: row; column-reverse;">
+        <div style="width: 200px; vertical-align: middle; font-weight: bold;">Frontend / Web</div>
+        <div style="width: 100%; display: flex; flex-direction: row-reverse;">
             <div style="display: flex; flex-direction: row; gap: 3px;">
                 <img
                     src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -26,8 +26,8 @@
     </div>
     <!-- Backend -->
     <div style="width: 80%; display: flex; flex-direction: row; justify-content: space-between;">
-        <span style="width: 200px; vertical-align: middle; font-weight: bold;">Frontend / Web</span>
-        <div style="width: 100%; display: flex; flex-direction: row; column-reverse;">
+        <div style="width: 200px; vertical-align: middle; font-weight: bold;">Backend</div>
+        <div style="width: 100%; display: flex; flex-direction: row-reverse;">
             <div style="display: flex; flex-direction: row; gap: 3px;">
                 <img
                     src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -38,8 +38,8 @@
     </div>
     <!-- Data Science / ML -->
     <div style="width: 80%; display: flex; flex-direction: row; justify-content: space-between;">
-        <span style="width: 200px; vertical-align: middle; font-weight: bold;">Frontend / Web</span>
-        <div style="width: 100%; display: flex; flex-direction: row; column-reverse;">
+        <div style="width: 200px; vertical-align: middle; font-weight: bold;">ata Science / ML</div>
+        <div style="width: 100%; display: flex; flex-direction: row-reverse;">
             <div style="display: flex; flex-direction: row; gap: 3px;">
                 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -49,8 +49,8 @@
     </div>
     <!-- Databases -->
     <div style="width: 80%; display: flex; flex-direction: row; justify-content: space-between;">
-        <span style="width: 200px; vertical-align: middle; font-weight: bold;">Frontend / Web</span>
-        <div style="width: 100%; display: flex; flex-direction: row; column-reverse;">
+        <div style="width: 200px; vertical-align: middle; font-weight: bold;">Databases</div>
+        <div style="width: 100%; display: flex; flex-direction: row-reverse;">
             <div style="display: flex; flex-direction: row; gap: 3px;">
                 <img
                     src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -60,8 +60,8 @@
     </div>
     <!-- DevOps / Tools -->
     <div style="width: 80%; display: flex; flex-direction: row; justify-content: space-between;">
-        <span style="width: 200px; vertical-align: middle; font-weight: bold;">Frontend / Web</span>
-        <div style="width: 100%; display: flex; flex-direction: row; column-reverse;">
+        <div style="width: 200px; vertical-align: middle; font-weight: bold;">DevOps / Tools</div>
+        <div style="width: 100%; display: flex; flex-direction: row-reverse;">
             <div style="display: flex; flex-direction: row; gap: 3px;">
                 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
                 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
