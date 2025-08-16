@@ -4,7 +4,7 @@
 
 ## 💻 Computer Science Undergraduate
 **@ Pontifícia Universidade Católica do Paraná (PUC-PR)**
-<img height="20px" src="https://raw.githubusercontent.com/lucas-azdias/PUCPR-SVG/ea4f6a6f371fa7c4b26b84b4ad8e00db2b830b9b/cor-primaria/pucpr-simbolo.svg" />
+<source height="20px" srcset="https://raw.githubusercontent.com/lucas-azdias/PUCPR-SVG/ea4f6a6f371fa7c4b26b84b4ad8e00db2b830b9b/cor-primaria/pucpr-simbolo.svg" />
 
 ---
 
