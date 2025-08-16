@@ -7,22 +7,21 @@
 ---
 
 <!-- Frontend / Web -->
-<div style="display: flex; flex-direction: column; gap: 6px;">
-    <!-- Example row -->
-    <div style="display: flex; align-items: center; width: 80%;">
-        <!-- Fixed width text -->
-        <div style="flex: 0 0 200px; font-weight: bold;">Frontend / Web</div>
-        <!-- Badges on the right -->
-        <div style="flex: 1; display: flex; justify-content: flex-end; gap: 4px;">
-            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </div>
-    </div>
+<div style="display: flex; align-items: center; margin-bottom: 6px;">
+  <!-- Left text, fixed width -->
+  <span style="min-width: 200px; font-weight: bold;">Frontend / Web</span>
+
+  <!-- Badges aligned right -->
+  <div style="flex: 1; display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 4px;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  </div>
 </div>
+
 
 <!-- Backend -->
 <div style="width: 80%; margin-bottom: 8px;">
