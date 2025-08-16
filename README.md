@@ -6,6 +6,8 @@
 
 ---
 
+## My Tech Stack
+
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -43,7 +45,21 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-<!---
+## 𝗦𝘁𝗮𝘁𝘀
+
+<!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dracula) -->
+<!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&theme=dracula) -->
+<picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true" />
+</picture>
 
 <div align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=radical" />
