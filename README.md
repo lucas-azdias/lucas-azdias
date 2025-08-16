@@ -47,8 +47,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-<!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dracula) -->
-<!-- ![lucas-azdias's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&theme=dracula) -->
 <div>
     <picture>
         <source
@@ -59,20 +57,29 @@
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            height="150px"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true" />
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true"
+            height="150px"
+        />
     </picture>
 &nbsp;&nbsp;
-    <picture height="150px">
+    <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&theme=dark"
             media="(prefers-color-scheme: dark)"
+            height="150px"
         />
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            height="150px"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact" />
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact"
+            height="150px"
+        />
     </picture>
 </div>
 
