@@ -16,11 +16,11 @@
     <source
         srcset="https://raw.githubusercontent.com/lucas-azdias/PUCPR-SVG/ea4f6a6f371fa7c4b26b84b4ad8e00db2b830b9b/cor-primaria/pucpr-completa.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        height="150px"
+        height="50px"
     />
     <img
         src="https://raw.githubusercontent.com/lucas-azdias/PUCPR-SVG/ea4f6a6f371fa7c4b26b84b4ad8e00db2b830b9b/cor-primaria/pucpr-completa.svg"
-        height="150px"
+        height="50px"
     />
 </picture>
 
