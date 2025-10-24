@@ -48,11 +48,6 @@
             <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
         </picture-->
     </div>
-</details>
-
-<!-- Front-end Styles -->
-<details open>
-    <summary>Front-end Styles</summary>
     <div>
         <picture>
             <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
@@ -61,11 +56,6 @@
             <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
         </picture>
     </div>
-</details>
-
-<!-- Front-end Tools -->
-<details open>
-    <summary>Front-end Tools</summary>
     <div>
         <picture>
             <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack" alt="Webpack">
@@ -89,9 +79,9 @@
 <details open>
     <summary>Backend</summary>
     <div>
-        <picture>
+        <!--picture>
             <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        </picture>
+        </picture-->
         <picture>
             <img src="https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
         </picture>
@@ -104,6 +94,31 @@
         <!--picture>
             <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
         </picture-->
+        <picture>
+            <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        </picture>
+        <picture>
+            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        </picture>
+        <!--picture>
+            <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+        </picture-->
+    </div>
+</details>
+
+<!-- LLMs -->
+<details open>
+    <summary>LLMs</summary>
+    <div>
+        <picture>
+            <img src="https://img.shields.io/badge/-LangChain-2E8B57?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+        </picture>
+        <picture>
+            <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
+        </picture>
+        <picture>
+            <img src="https://img.shields.io/badge/-OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI SDK">
+        </picture>
     </div>
 </details>
 
@@ -129,38 +144,6 @@
         <picture>
             <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
         </picture>
-    </div>
-</details>
-
-<!-- LLMs -->
-<details open>
-    <summary>LLMs</summary>
-    <div>
-        <picture>
-            <img src="https://img.shields.io/badge/-LangChain-2E8B57?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-        </picture>
-        <picture>
-            <img src="https://img.shields.io/badge/-LangGraph-4B32C3?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
-        </picture>
-        <picture>
-            <img src="https://img.shields.io/badge/-OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI SDK">
-        </picture>
-    </div>
-</details>
-
-<!-- Databases -->
-<details open>
-    <summary>Databases</summary>
-    <div>
-        <picture>
-            <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        </picture>
-        <picture>
-            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        </picture>
-        <!--picture>
-            <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-        </picture-->
     </div>
 </details>
 
