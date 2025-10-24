@@ -31,7 +31,7 @@
 <!-- Front-end -->
 <details open>
     <summary>Front-end</summary>
-    <div>
+    <div> <!-- Front-end -->
         <!--picture>
             <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
         </picture-->
@@ -48,7 +48,7 @@
             <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
         </picture-->
     </div>
-    <div>
+    <div> <!-- Front-end Styles -->
         <picture>
             <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
         </picture>
@@ -56,7 +56,7 @@
             <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
         </picture>
     </div>
-    <div>
+    <div> <!-- Front-end Tools -->
         <picture>
             <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack" alt="Webpack">
         </picture>
@@ -161,7 +161,7 @@
             <img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
         </picture-->
         <picture>
-            <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+            <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=icloud&logoColor=white" alt="AWS">
         </picture>
         <picture>
             <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
