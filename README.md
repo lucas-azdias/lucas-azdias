@@ -1,8 +1,4 @@
-<!-- https://pandao.github.io/editor.md/en.html -->
-
 # LUCAS DIAS
-
-<!-- ## 🧑‍🎓 Academics -->
 
 **Computer Science Undergraduate**\
 **@ Pontifícia Universidade Católica do Paraná (PUCPR)**
@@ -180,7 +176,7 @@
 
 ---
 
-## 📊 𝗦𝘁𝗮𝘁𝘀
+## 📊 Stats
 
 <div>
     <picture>
