@@ -1,6 +1,6 @@
 # LUCAS DIAS
 
-**Computer Science Undergraduate**\
+**Computer Science Graduate (12/2025)**\
 **@ Pontifícia Universidade Católica do Paraná (PUCPR)**
 
 <picture>
