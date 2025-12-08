@@ -217,5 +217,5 @@
 ---
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=lucas-azdias&color=blueviolet&style=flat&label=Profile+Views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=lucas-azdias&color=blueviolet&style=flat&label=Profile+Views&abbreviated=true" alt="Profile views" />
 </div>
