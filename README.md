@@ -185,34 +185,34 @@
 <div>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats-fast.vercel.app/api?username=lucas-azdias&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)"
             height="150px"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true"
+            srcset="https://github-readme-stats-fast.vercel.app/api?username=lucas-azdias&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             height="150px"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api?username=lucas-azdias&show_icons=true"
+            src="https://github-readme-stats-fast.vercel.app/api?username=lucas-azdias&show_icons=true"
             height="150px"
         />
     </picture>
 &nbsp;&nbsp;
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook&theme=dark"
+            srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook&theme=dark"
             media="(prefers-color-scheme: dark)"
             height="150px"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook"
+            srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             height="150px"
         />
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook"
+            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-azdias&show_icons=true&layout=compact&hide=jupyter%20notebook"
             height="150px"
         />
     </picture>
